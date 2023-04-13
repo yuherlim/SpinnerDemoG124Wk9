@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SpinnerDemoG124</string>
+    <string name="courseTextLabel">Course</string>
+    <string-array name="course_selection">
+        <item>Software Engineering</item>
+        <item>Interactive Software</item>
+        <item>Data Science</item>
+        <item>Information Technology</item>
+        <item>Internet Security</item>
+    </string-array>
+</resources>
